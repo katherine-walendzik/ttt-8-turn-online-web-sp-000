@@ -40,6 +40,7 @@ def turn(board)
     turn(board)
 end
 
+end
 #ask for input
 #get input
 #convert input to index
